@@ -1,1 +1,14 @@
+body {
+  background-color: #f0f0f0;
+  color: #333333;
+  font-family: sans-serif;
+}
 
+a {
+  color: #0066cc;
+}
+
+header, footer {
+  background-color: #ffffff;
+  color: #000000;
+}
