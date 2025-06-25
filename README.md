@@ -1,11 +1,9 @@
 # 
 Welcome to my website!
 
-I am a fifth year PhD candidate in Economics at Northwestern University, working on econometrics.
+I am a fourth year PhD candidate in Economics at Sant'Anna School of Advandes Studies, Pisa.
 
-My research focuses on network econometrics, panel data methods, and statistical decision theory.
-
-In parallel, I am involved in several liver cirrhosis–related projects in collaboration with the Northwestern University Transplant Outcomes Research Collaborative (NUTORC).
+My research focuses on welfare state systems classification, labor market dynamics in care sectors and time use patterns in advanced capitalist economies.
 
 ## Working Papers
 ## Publications
