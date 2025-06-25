@@ -6,18 +6,21 @@ My research focuses on welfare state systems classification, labor market dynami
 
 [[CV](https://www.santannapisa.it/sites/default/files/2025-06/CV_nuovo_eng%20%289%29.pdf)]    [[ORCID](https://orcid.org/0009-0006-7702-7211)]     [[Google Scholar](https://scholar.google.com/citations?user=IJr4rs4AAAAJ&hl=en)]
 
+
 ## Publications
 
 Costantini, E., Divella, M., Manicardi, C., & Rinaldini, M. (2025 forthcoming). Between empowering and risk: Organizational change and professional upskilling through digital health technologies. In V. Cirillo, M. Rinaldini, & M. Virgillito (Eds.), Technology and Work in Services. Vulnerable Workers under Automation and Digitalization. Palgrave Macmillan.
 
 Cetrulo, A., Manicardi, C., & Moro, A. (2025 forthcoming). Automation in cleaning: Why dirty, invisible, and risky jobs will not be replaced by robots yet. In V. Cirillo, M. Rinaldini, & M. Virgillito (Eds.), Technology and Work in Services. Vulnerable Workers under Automation and Digitalization. Palgrave Macmillan.
 
-Manicardi, C. (2023). Feminization of labor in Italy. A preliminary assessment, Sinappsi, XIII, (2), 8-24. [PDF](https://oa.inapp.gov.it/bitstreams/5ede9e69-2160-47f8-8a9d-6f744eb6246f/download)
+Manicardi, C. (2023). Feminization of labor in Italy. A preliminary assessment, Sinappsi, XIII, (2), 8-24. [[PDF](https://oa.inapp.gov.it/bitstreams/5ede9e69-2160-47f8-8a9d-6f744eb6246f/download)]
 
-Cirillo, V., Rinaldini, M., Virgillito, M.E., Divella, M., Manicardi, C., Massimo, F.S., Cetrulo, A., Costantini, E., Moro, A. and Staccioli, J. (2022). Case studies of automation in services, Publications Office of the European Union, Luxembourg. DOI: 10.2760/347087 [PDF](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC129691/JRC129691_01.pdf)
+Cirillo, V., Rinaldini, M., Virgillito, M.E., Divella, M., Manicardi, C., Massimo, F.S., Cetrulo, A., Costantini, E., Moro, A. and Staccioli, J. (2022). Case studies of automation in services, Publications Office of the European Union, Luxembourg. DOI: 10.2760/347087 [[PDF](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC129691/JRC129691_01.pdf)]
+
 
 ## Working papers
-Manicardi, C., & Virgillito, M. E. (2025). Unpaid Working Time and Disproportionate Female Hazard: an Intersectionality Perspective (No. 2025/01). Laboratory of Economics and Management (LEM), Sant'Anna School of Advanced Studies, Pisa, Italy. DOI: 10.57838/sssa/0v9f-0384 [PDF](https://www.lem.sssup.it/WPLem/files/2025-01.pdf)
+Manicardi, C., & Virgillito, M. E. (2025). Unpaid Working Time and Disproportionate Female Hazard: an Intersectionality Perspective (No. 2025/01). Laboratory of Economics and Management (LEM), Sant'Anna School of Advanced Studies, Pisa, Italy. DOI: 10.57838/sssa/0v9f-0384 [[PDF](https://www.lem.sssup.it/WPLem/files/2025-01.pdf)]
+
 
 ## Work in progress
 - Manicardi, C., Basu, A., Sen, A., Wage Compression and Care Work in the US Post Pandemic Labor Market.
