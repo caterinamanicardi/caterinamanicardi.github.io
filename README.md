@@ -4,6 +4,8 @@ I am a fourth year PhD candidate in Economics at Sant'Anna School of Advandes St
 
 My research focuses on welfare state systems classification, labor market dynamics in care sectors and time use patterns in advanced capitalist economies.
 
+[[CV]()] [[ORCID(https://orcid.org/0009-0006-7702-7211)]  [[Google Scholar(https://scholar.google.com/citations?user=IJr4rs4AAAAJ&hl=en)]]
+
 ## Publications
 
 Costantini, E., Divella, M., Manicardi, C., & Rinaldini, M. (2025 forthcoming). Between empowering and risk: Organizational change and professional upskilling through digital health technologies. In V. Cirillo, M. Rinaldini, & M. Virgillito (Eds.), Technology and Work in Services. Vulnerable Workers under Automation and Digitalization. Palgrave Macmillan.
