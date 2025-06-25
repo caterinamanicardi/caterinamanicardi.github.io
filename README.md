@@ -19,7 +19,7 @@ Manicardi, C., & Virgillito, M. E. (2025). Unpaid Working Time and Disproportion
 
 ## Work in progress
 Manicardi, C., Basu, A., Sen, A., Wage Compression and Care Work in the US Post Pandemic Labor Market.
-Abstract:
+###Abstract:
 
 Recent labor market research by Autor et al. (2023) documents unexpected wage compression in the US following the COVID-19 pandemic, particularly benefiting low-wage workers. This compression has been attributed to increased labor market tightness, which disproportionately improved the bargaining power of low-wage workers. However, it is unclear whether this wage compression affected all low-wage sectors equally, particularly care work (health, education, and social services), which faces unique labor market dynamics. Care work typically displays lower wage elasticity due to emotional attachment and industry-specific credentials that reduce outside options, a disproportionately female labor force with lower labor supply elasticity (Naidu and Carr, 2022), and persistently low wages due to the care penalty (Folbre et al., 2021; Gautham et al., 2024; Gautham and Folbre, 2024). These workers also experienced significant deterioration in working conditions during the pandemic (Rudolph et al., 2021). In this paper, we examine how post-pandemic labor market trends affected care workers and the role of this sector in shaping broader patterns of earnings inequality.
 
