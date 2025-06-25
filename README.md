@@ -4,7 +4,7 @@ I am a fourth year PhD candidate in Economics at Sant'Anna School of Advandes St
 
 My research focuses on welfare state systems classification, labor market dynamics in care sectors and time use patterns in advanced capitalist economies.
 
-[[CV](caterinamanicardi.github.io/assets/CV_nuovo_eng (10).pdf)]    [[ORCID](https://orcid.org/0009-0006-7702-7211)]     [[Google Scholar](https://scholar.google.com/citations?user=IJr4rs4AAAAJ&hl=en)]
+[[CV](/assets/CV_nuovo_eng (10).pdf)]    [[ORCID](https://orcid.org/0009-0006-7702-7211)]     [[Google Scholar](https://scholar.google.com/citations?user=IJr4rs4AAAAJ&hl=en)]
 
 ## Publications
 
