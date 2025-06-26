@@ -23,7 +23,7 @@ Manicardi, C., & Virgillito, M. E. (2025). Unpaid Working Time and Disproportion
 
 
 ## Work in progress
-- Manicardi, C., Virgillito, M.E., Care Regimes and Time Allocation.
+- Manicardi, C., Virgillito, M.E., Care Regimes and Time Allocation: an Event Study Analysis of the US Public Expenditure.
 
 _Abstract_: This paper provides new evidence that public investments in education, healthcare and public welfare significantly influence individual time allocation. We analyze the United States care regime from 2004 to 2021 where the latter is subject, as a public expenditure component, to positive and negative phases, or events. By distinguishing between expansionary and recessionary events, we study the individual time allocation as affected by alternative phases of the regime of care using a diff-in-diff event study design that exploits that extreme public spending investments occur in spikes. Using representative samples from the American Time Use Survey and the US State \& Local Government Expenditure databases, we find that positive spikes in state and local expenditures cause increases in the waged working time for women and reduce the burden of domestic and care responsibilities. Conversely, period of fiscal austerity result in a gendered shift from paid to unpaid activities. These effects are large and highlight the role of institutional factors in shaping gender time inequalities and the need for gender budgeting at both recessionary and expansionary stages of the fiscal budget cycle. 
 
